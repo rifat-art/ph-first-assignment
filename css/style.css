@@ -83,12 +83,24 @@ header{
 /* ==============================================================
 ============================================================= */
 /* my plan section start */
-.plan-title{
+.plan-sec{
+        padding: 150px 0px;
 
+}
+.plan-title{
+        text-align: center;
+        color: black;
+        font-size: 35px;
+        font-weight: 500px;
+        margin-bottom: 50px;
 }
 .plans{
-
+    display: flex;
+    justify-content: center;
+    gap: 150px;
 }
+/* 
+
 .web{
 
 }
@@ -99,5 +111,18 @@ header{
 
 }
 .ecommerce{
-    
+
 } 
+ */
+.p-title{
+    font-size: 24px;
+    text-align: left;
+}
+.p-discrip{
+    font-size: 20px;
+    text-align: left;
+}
+
+/* my plan section end */
+/* ==============================================================
+============================================================= */
