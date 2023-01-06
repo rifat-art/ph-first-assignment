@@ -48,19 +48,37 @@ header{
 /* ==========================================================
 ============================================================= */
 /* about section start */
-
+.about-sec{
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 300px;
+    align-items: center;
+}
 .about-image{
 
 }
 .my-discrip{
-
+    margin-left: 150px;
 }
 .discrip-title{
-
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
 }
 .discrip-me{
-
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+    margin: 20px 0px;
+}
+.discrip-list li{
+    list-style: none;
 }
 .discrip-list{
-    
+    font-size: 16px;
+    font-weight: 100;
+    margin-left: 30px;
 }
+/* about section end */
+/* ==============================================================
+============================================================= */
