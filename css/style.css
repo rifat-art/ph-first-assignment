@@ -130,7 +130,7 @@ header{
 
 .mini-banner{
 
-    background-image: url(/images/gradient1.png), url(/images/watch.png);
+    background-image: linear-gradient(to right, rgb(23, 112, 172), rgb(255,255,255) 70%), url(/images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 8px;
