@@ -156,3 +156,41 @@ header{
 /* mini banner section end */
 /* ==============================================================
 ============================================================= */
+/* get in touch start */
+.get-touch{
+    background-color: #1770AC;
+    padding: 200px 0px;
+    
+}
+.get-title{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: white;
+    margin: 30px 350px;
+    border-radius: 12px;
+}
+.f-email{
+    font-size: 18px;
+    padding: 20px 45px;
+    border: 2px solid #1770AC;
+    border-radius: 6px 0px 0px 6px;
+}
+.f-submit{
+    font-size: 18px;
+    padding: 20px 30px;
+    color: white;
+    background-color: #1770AC;
+    border: 0px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+/* get in touch section end */
+/* ==============================================================
+============================================================= */
